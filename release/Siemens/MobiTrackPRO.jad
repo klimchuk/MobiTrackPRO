@@ -1,0 +1,14 @@
+MIDlet-1: MobiTrackPRO,/Cursor.png,henson.midp.MIDlet1
+MIDlet-Jar-Size: 130321
+MIDlet-Jar-URL: MobiTrackPRO.jar
+MIDlet-Name: MobiTrackPRO
+MIDlet-Vendor: UNTEH
+MIDlet-Version: 1.47
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+map1: World map
+maxlat1: 90
+maxlon1: 180
+minlat1: -90
+minlon1: -180
+path1: /earthmap.png
